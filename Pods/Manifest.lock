@@ -1,0 +1,16 @@
+PODS:
+  - specdemo (0.0.1)
+
+DEPENDENCIES:
+  - specdemo (from `./demoframeworks`)
+
+EXTERNAL SOURCES:
+  specdemo:
+    :path: "./demoframeworks"
+
+SPEC CHECKSUMS:
+  specdemo: 206f8fa38592b5ac182b09269def26d1dcf2dd4c
+
+PODFILE CHECKSUM: 098c36036c89c15fc71d85463db227dd68c8417f
+
+COCOAPODS: 1.9.1
